@@ -43,7 +43,7 @@ Huxiong Li, Amirhossein Karamoozian, Zhaoxi Fang, En Fan, Xuying Liu, **Wenjie S
 - ``Information Processing and Management 2025`` [A research survey on emotional privacy recognition based on artificial intelligence](), PANJUN SUN, HAO YU, **WENJIE SU**, ZONGDA WU, et al.
 - ``COMPUTERS IN INDUSTRY 2025`` [PCBimage registration method based on local adaptivethreshold-KNNand SIFT](), **WENJIE SU**, et al.
 - ``ACM Computing Surveys 2025`` [Privacy Protection of Ubiquitous Cloud Computing: A Survey](), PANJUN SUN, HAO YU, **WENJIE SU**, ZONGDA WU, et al.
-- ``Applied Soft Computing Journal 2025`` [Privacy Protection in the Evolving Metaverse: A Comprehensive Review of Current Status, Critical Challenges, and Future Directions](), PANJUN SUN, Yuan Ren, HAO YU, **WENJIE SU**, et al.
+- ``Applied Soft Computing Journal 2025`` [Privacy Protection in the Evolving Metaverse: A Comprehensive Review of Current Status, Critical Challenges, and Future Directions](), PANJUN SUN, YUAN REN, HAO YU, **WENJIE SU**, et al.
 
 
 # 🎖 Honors and Awards
