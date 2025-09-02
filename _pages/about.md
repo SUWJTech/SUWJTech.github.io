@@ -26,7 +26,7 @@ Received the First-Class Scholarship of Zhejiang Provincial Government and the f
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Communications in Transportation Research 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Communications in Transportation Research 2025</div><img src='images/pages.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Probabilistic Semantic MappingwithPareto Optimization for LiDAR-Based HD Map]()
