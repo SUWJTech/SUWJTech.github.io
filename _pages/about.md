@@ -26,29 +26,35 @@ Received the First-Class Scholarship of Zhejiang Provincial Government and the f
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Communications in Transportation Research 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Probabilistic Semantic MappingwithPareto Optimization for LiDAR-Based HD Map]()
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Huxiong Li, Amirhossein Karamoozian, Zhaoxi Fang, En Fan, Xuying Liu, **Wenjie Su**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Chinese Academy of Sciences 1st Zone, IF=14.5
+- Ranked first in the Transportation discipline
+- Focus on the cutting-edge research of transportation systems
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- ``ACM Computing Surveys 2025`` [PrivacyProtection for Big Data-integrated Edge CloudComputinginMetaverse: A Comprehensive Review](), PANJUN SUN, HAO YU, **WENJIE SU**, ZONGDA WU, et al.
+- ``Information Processing and Management 2025`` [A research survey on emotional privacy recognition based on artificial intelligence](), PANJUN SUN, HAO YU, **WENJIE SU**, ZONGDA WU, et al.
+- ``COMPUTERS IN INDUSTRY 2025`` [PCBimage registration method based on local adaptivethreshold-KNNand SIFT](), **WENJIE SU**, et al.
+- ``ACM Computing Surveys 2025`` [Privacy Protection of Ubiquitous Cloud Computing: A Survey](), PANJUN SUN, HAO YU, **WENJIE SU**, ZONGDA WU, et al.
+- ``Applied Soft Computing Journal 2025`` [Privacy Protection in the Evolving Metaverse: A Comprehensive Review of Current Status, Critical Challenges, and Future Directions](), PANJUN SUN, Yuan Ren, HAO YU, **WENJIE SU**, et al.
+
 
 # 🎖 Honors and Awards
-- *2023.11* The First College Students' Career Planning Competition, First Prize. 
-- *2024.01* National College Students' IT Skills Competition, First Prize.
-- *2024.11* The Second College Students' Career Planning Competition, First Prize.
-- *2025.06* Zhejiang Province College Students' Robot Creativity Competition, First Prize.
-- *2025.06* The 19th "Challenge Cup" College Students' Extracurricular Academic Works Competition, Gold Award.
-- *2025.08* China International College Students Innovation Competition, Gold Award.
-- *2025.08* China International College Students Innovation Competition, Bronze Award.
-- *2025.08* The 20th China Postgraduate Electronic Design Contest, National First Prize.
+- *2023.11* The First College Students' Career Planning Competition, 🥇First Prize. 
+- *2024.01* National College Students' IT Skills Competition, 🥇First Prize.
+- *2024.11* The Second College Students' Career Planning Competition, 🥇First Prize.
+- *2025.06* Zhejiang Province College Students' Robot Creativity Competition, 🥇First Prize.
+- *2025.06* The 19th "Challenge Cup" College Students' Extracurricular Academic Works Competition, 🥇Gold Award.
+- *2025.08* China International College Students Innovation Competition, 🥇Gold Award.
+- *2025.08* China International College Students Innovation Competition, 🥉Bronze Award.
+- *2025.08* The 20th China Postgraduate Electronic Design Contest, 🥇National First Prize.
 
 # 📖 Educations
 - *2023.09 - 2027.06 (now)*, Undergraduate, Computer Science and Technology Major, School of Intelligent Engineering, Shaoxing Univeristy, Shaoxing. 
