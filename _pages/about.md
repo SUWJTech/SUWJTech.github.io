@@ -41,8 +41,14 @@ Received the First-Class Scholarship of Zhejiang Provincial Government and the f
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.11* The First College Students' Career Planning Competition, First Prize. 
+- *2024.01* National College Students' IT Skills Competition, First Prize.
+- *2024.11* The Second College Students' Career Planning Competition, First Prize.
+- *2025.06* Zhejiang Province College Students' Robot Creativity Competition, First Prize.
+- *2025.06* The 19th "Challenge Cup" College Students' Extracurricular Academic Works Competition, Gold Award.
+- *2025.08* China International College Students Innovation Competition, Gold Award.
+- *2025.08* China International College Students Innovation Competition, Bronze Award.
+- *2025.08* The 20th China Postgraduate Electronic Design Contest, National First Prize.
 
 # 📖 Educations
 - *2023.09 - 2027.06 (now)*, Undergraduate, Computer Science and Technology Major, School of Intelligent Engineering, Shaoxing Univeristy, Shaoxing. 
