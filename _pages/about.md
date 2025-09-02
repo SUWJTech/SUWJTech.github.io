@@ -47,9 +47,16 @@ Received the First-Class Scholarship of Zhejiang Provincial Government and the f
 # 📖 Educations
 - *2023.09 - 2027.06 (now)*, Undergraduate, Computer Science and Technology Major, School of Intelligent Engineering, Shaoxing Univeristy, Shaoxing. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Projects
+- *2024.10*, The 2024 National College Students' Innovation and Entrepreneurship Training Program, Construction and development of a traditional Chinese culture education platform based on knowledge payment.
+- *2024.10*, The 2024 National College Students' Innovation and Entrepreneurship Training Program, Research on Strategies for Promoting Mental Health of Rural Elderly under the Goal of Common Prosperity.
+- *2024.10*, The 2024 National College Students' Innovation and Entrepreneurship Training Program, Listening to the Heart of Aging: The Concept, Measurement and Intervention of Active Solitude in the Elderly.
+- *2024.10*, The 2024 National College Students' Innovation and Entrepreneurship Training Program, Research on the Influence Mechanism and Educational Strategies of Loneliness Stigma on Cultural Adaptation of International Students in China. 
+- *2025.03*, Zhejiang Province College Students' Scientific and Technological Innovation Activity Plan 2025 (New Seedling Talent Plan), A psychological counseling practice robot based on artificial intelligence.
+- *2025.10*, The 2025 National College Students' Innovation and Entrepreneurship Training Program, Spot welding robot guidance system based on multimodal information fusion.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.09 - (now)*, [GeekCreation Network Technology Co., Ltd.](http://geekopen.com/)​, Co-founder, China.
+- *2024.03 - (now)*, The research group of Li Qi, Fan En and Sun Panjun, RA, Shaoxing.
+- *2024.11 - (now)*, Fan Zhiguang's research group, RA, Shaoxing.
+- *2025.04 - (now)*, Shaoxing Yuechuangke Education Technology Co., LTD, Trainee head teacher, Shaoxing.
