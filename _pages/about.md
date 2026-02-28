@@ -56,6 +56,7 @@ Huxiong Li, Amirhossein Karamoozian, Zhaoxi Fang, En Fan, Xuying Liu, **Wenjie S
 
 - ``22nd International IEEE Conference on Factory Communication Systems (WFCS 2026)`` [AGFTNet: Learning Reliable Spatio-Temporal Risk Patterns from Sparse Data for Urban Traffic Accident Early Warning Systems](), PANJUN SUN, HAO YU, **WENJIE SU**, ZONGDA WU, et al.
 - ``2025 5th International Conference on Electronic Information Engineering and Computer Communication (EIECC)`` [An End-to-End Detection and Segmentation Model for Container Surface Damage Based on YOLOv11](), **WENJIE SU**, Ningyao Yu.
+- ``2025 7th International Conference on Internet of Things, Automation and Artificial Intelligence (IoTAAI)`` [Autonomous localization methods for greenhouse robot navigation in un-certain environments: a review](https://ieeexplore.ieee.org/abstract/document/11213497/), Junqi Gong, En Fan, Zhenxin Wu, **WENJIE SU**.
 - ``ACM Computing Surveys 2025`` [PrivacyProtection for Big Data-integrated Edge CloudComputinginMetaverse: A Comprehensive Review](), PANJUN SUN, HAO YU, **WENJIE SU**, ZONGDA WU, et al.
 - ``Information Processing and Management 2025`` [A research survey on emotional privacy recognition based on artificial intelligence](), PANJUN SUN, HAO YU, **WENJIE SU**, ZONGDA WU, et al.
 - ``COMPUTERS IN INDUSTRY 2025`` [PCBimage registration method based on local adaptivethreshold-KNNand SIFT](), **WENJIE SU**, et al.
@@ -87,9 +88,9 @@ Huxiong Li, Amirhossein Karamoozian, Zhaoxi Fang, En Fan, Xuying Liu, **Wenjie S
 - *2025.10*, The 2025 National College Students' Innovation and Entrepreneurship Training Program, Spot welding robot guidance system based on multimodal information fusion.
 
 # 💻 Internships
-- *2023.09 - (now)*, [GeekCreation Network Technology Co., Ltd.](http://geekopen.com/)​, Co-founder, China.
-- *2024.03 - (now)*, The research group of Li Qi, Fan En and Sun Panjun, RA, Shaoxing.
+- *2023.09 - (now)*, [GeekCreation Network Technology Co., Ltd.](https://geekopen.com/)​, Co-founder, China.
+- *2024.03 - (now)*, [The research group of Li Qi, Fan En and Sun Panjun](https://sxai.usx.edu.cn), RA, Shaoxing.
 - *2024.11 - (now)*, Fan Zhiguang's research group, RA, Shaoxing.
 - *2025.04 - (now)*, Shaoxing Yuechuangke Education Technology Co., LTD, Trainee head teacher, Shaoxing.
-- *2025.09 - (now)*, China Duty Free Group Co., Ltd., intern, Qingdao.
-- *2025.12 - (now)*, DoBot, Shenzhen Yuejiang Technology Co., Ltd., intern, Shenzhen.
+- *2025.09 - (now)*, [China Duty Free Group Co., Ltd.](https://www.cdfg.com.cn/)​, intern, Qingdao.
+- *2025.12 - (now)*, [DoBot, Shenzhen Yuejiang Technology Co., Ltd.](https://dobot.cn/)​, intern, Shenzhen.
