@@ -20,11 +20,26 @@ redirect_from:
 Su Wenjie, a 2023 undergraduate student majoring in Computer Science and Technology at Shaoxing University, is currently studying at Shaoxing University. His research directions include artificial intelligence, deep learning and multimodal fusion. During his school years, he actively led and participated in multiple national-level innovation training programs for college students, served as a research assistant, and produced several academic papers. At the same time, he actively participated in competitions and won several first prizes at the national level. Among them, he participated in the 20th China Postgraduate Electronic Design Contest as an undergraduate student and won the first prize at the national level, and was interviewed by [CCTV13](https://tv.cctv.cn/2025/08/17/VIDEd7ZdNRPLXwFuh8RviEkb250817.shtml). By learning about artificial intelligence-related technologies, he has enhanced his practical abilities and is committed to further exploring and learning in the field of artificial intelligence.
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 Selected as a Chinese College Student Self-Improvement Star ⭐.
+- *2025.12*: &nbsp;🎉🎉 The "Shan Hai Xiao Zhi" Tibetan language companion robot won the national top prize and received dual commendations from the Central Committee of the Communist Youth League and the Ministry of Education. The county government expressed its gratitude, and the Zhejiang Daily reported on the event. 
 - *2025.08*: &nbsp;🎉🎉 Won the first prize at the 20th China Postgraduate Electronic Design Contest and was interviewed by CCTV. 
 - *2023.09 - (now)*: &nbsp;🎉🎉 The discipline ranks among the top 1% in the world in terms of ESI, and the comprehensive quality assessment is 1/120. The discipline performance ranks first in the major.
 Received the First-Class Scholarship of Zhejiang Provincial Government and the first-class Scholarship of the University's Comprehensive Scholarship.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Open Journal of Industry Applications</div><img src='images/pages2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-objective Layered Optimization Analysis of Non-Contact Integrated Permanent Magnet Vernier Motor for Deep-sea joint motor]()
+
+Qiushuo Chen, **Wenjie Su** (Co-author), Junlei Chen, Ying Fan, Yiming Fang 
+
+- Chinese Academy of Sciences 3st Zone, IF=3.4
+- Backed by the IEEE Industry Applications Society, with strong global academic and industrial influence
+- Focus on industrial power systems, electrical machines, drives, energy conversion, and applied industrial technologies
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Communications in Transportation Research 2025</div><img src='images/pages.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -39,6 +54,8 @@ Huxiong Li, Amirhossein Karamoozian, Zhaoxi Fang, En Fan, Xuying Liu, **Wenjie S
 </div>
 </div>
 
+- ``22nd International IEEE Conference on Factory Communication Systems (WFCS 2026)`` [AGFTNet: Learning Reliable Spatio-Temporal Risk Patterns from Sparse Data for Urban Traffic Accident Early Warning Systems](), PANJUN SUN, HAO YU, **WENJIE SU**, ZONGDA WU, et al.
+- ``2025 5th International Conference on Electronic Information Engineering and Computer Communication (EIECC)`` [An End-to-End Detection and Segmentation Model for Container Surface Damage Based on YOLOv11](), **WENJIE SU**, Ningyao Yu.
 - ``ACM Computing Surveys 2025`` [PrivacyProtection for Big Data-integrated Edge CloudComputinginMetaverse: A Comprehensive Review](), PANJUN SUN, HAO YU, **WENJIE SU**, ZONGDA WU, et al.
 - ``Information Processing and Management 2025`` [A research survey on emotional privacy recognition based on artificial intelligence](), PANJUN SUN, HAO YU, **WENJIE SU**, ZONGDA WU, et al.
 - ``COMPUTERS IN INDUSTRY 2025`` [PCBimage registration method based on local adaptivethreshold-KNNand SIFT](), **WENJIE SU**, et al.
@@ -55,6 +72,8 @@ Huxiong Li, Amirhossein Karamoozian, Zhaoxi Fang, En Fan, Xuying Liu, **Wenjie S
 - *2025.08* China International College Students Innovation Competition, 🥇Gold Award.
 - *2025.08* China International College Students Innovation Competition, 🥉Bronze Award.
 - *2025.08* The 20th China Postgraduate Electronic Design Contest, 🥇National First Prize.
+- *2025.11* The 19th "Challenge Cup" National College Students' Extracurricular Academic Works Competition, "Artificial Intelligence" Track, 🥇National Special Prize.
+- *2025.12* The 3rd National College Student Career Planning Competition, 🥇Gold Award.
 
 # 📖 Educations
 - *2023.09 - 2027.06 (now)*, Undergraduate, Computer Science and Technology Major, School of Intelligent Engineering, Shaoxing Univeristy, Shaoxing. 
@@ -72,3 +91,5 @@ Huxiong Li, Amirhossein Karamoozian, Zhaoxi Fang, En Fan, Xuying Liu, **Wenjie S
 - *2024.03 - (now)*, The research group of Li Qi, Fan En and Sun Panjun, RA, Shaoxing.
 - *2024.11 - (now)*, Fan Zhiguang's research group, RA, Shaoxing.
 - *2025.04 - (now)*, Shaoxing Yuechuangke Education Technology Co., LTD, Trainee head teacher, Shaoxing.
+- *2025.09 - (now)*, China Duty Free Group Co., Ltd., intern, Qingdao.
+- *2025.12 - (now)*, DoBot, Shenzhen Yuejiang Technology Co., Ltd., intern, Shenzhen.
