@@ -55,7 +55,7 @@ Huxiong Li, Amirhossein Karamoozian, Zhaoxi Fang, En Fan, Xuying Liu, **Wenjie S
 </div>
 
 - ``22nd International IEEE Conference on Factory Communication Systems (WFCS 2026)`` [AGFTNet: Learning Reliable Spatio-Temporal Risk Patterns from Sparse Data for Urban Traffic Accident Early Warning Systems](), PANJUN SUN, HAO YU, **WENJIE SU**, ZONGDA WU, et al.
-- ``2025 5th International Conference on Electronic Information Engineering and Computer Communication (EIECC)`` [An End-to-End Detection and Segmentation Model for Container Surface Damage Based on YOLOv11](), **WENJIE SU**, Ningyao Yu.
+- ``2025 5th International Conference on Electronic Information Engineering and Computer Communication (EIECC)`` [An End-to-End Detection and Segmentation Model for Container Surface Damage Based on YOLOv11](https://ieeexplore.ieee.org/document/11409689), **WENJIE SU**, Ningyao Yu.
 - ``2025 7th International Conference on Internet of Things, Automation and Artificial Intelligence (IoTAAI)`` [Autonomous localization methods for greenhouse robot navigation in un-certain environments: a review](https://ieeexplore.ieee.org/abstract/document/11213497/), Junqi Gong, En Fan, Zhenxin Wu, **WENJIE SU**.
 - ``ACM Computing Surveys 2025`` [PrivacyProtection for Big Data-integrated Edge CloudComputinginMetaverse: A Comprehensive Review](), PANJUN SUN, HAO YU, **WENJIE SU**, ZONGDA WU, et al.
 - ``Information Processing and Management 2025`` [A research survey on emotional privacy recognition based on artificial intelligence](), PANJUN SUN, HAO YU, **WENJIE SU**, ZONGDA WU, et al.
